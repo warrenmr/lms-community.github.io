@@ -23,3 +23,5 @@ The tool to build the old tray icon is no longer available. Starting with Logite
 But you might be interested in this [Service Tray](https://www.coretechnologies.com/products/ServiceTray/) utility. It can be configured to start/stop the LMS service and the icon in the system tray has colors so you can see the status of your service that you configured it for. And it's free to use.
 
 [Control any Windows Service with a Taskbar Tray Icon](https://www.coretechnologies.com/products/ServiceTray/).
+
+## Testing, testing
